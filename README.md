@@ -3,6 +3,8 @@
 ## Funcionamento da Aplicação 
  ![Gif](https://github.com/YuriODantas/MoveIt/blob/main/.github/MoveIt.gif)
  
+ Teste a aplicação [Clicando aqui.](https://moveit-alpha-seven.vercel.app/)
+ 
  ## O que é o MoveIt
  
  O MoveIt é um projeto de estudo feito em TypeScrip no evento Next Level Week 04 da [Rocketseat](https://rocketseat.com.br/). Ele consiste em um sistema de produtividade e foco, utilizando a técnica de pomodoro.
